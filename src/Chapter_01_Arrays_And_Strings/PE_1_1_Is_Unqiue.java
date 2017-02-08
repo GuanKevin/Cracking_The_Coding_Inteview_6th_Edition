@@ -12,7 +12,7 @@ import java.util.Scanner;
  *
  */
 
-public class Programming_Exercise_1_1_Is_Unqiue 
+public class PE_1_1_Is_Unqiue 
 {
 	public static void main(String[] args) 
 	{
